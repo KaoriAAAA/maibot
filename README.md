@@ -19,6 +19,7 @@ Mai Bot possui diversos comandos completamente inúteis. Divididos em 3 categori
 4. **Salsicha \[Pergunta]:** O bot responde a pergunta. (Pra quem não entendeu, o nome é porque tinha um jogo no click jogos ou algum site assim onde o salsicha do scooby doo respondia uma pergunta que você digitava e usava o mesmo sistema de escolher uma resposta pré definida de uma lista de respostas)
 5. **Roleta/Roletarussa \[@alguem]:** O bot escolhe um número de 1 a 6. Se for == 3, ele muta o alvo por 28 dias. ***NÃO PRECISA DE PERMISSÃO DE MUTAR PARA USAR O COMANDO, CUIDADO*** 
 
+
 ### C. Utilitarios
 1. **Limpa \[n]:** Limpa \[n] mensagens do chat. \[n] precisa estar entre 1 e 100. <span style="color:#e32020">O usuário precisa ter a permissão Gerenciar Mensagens</span>
 2. **Hello:** Exibe o ping do bot.

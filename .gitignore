@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyCharm / IntelliJ project settings
+.idea/
+
+# VSCode project settings
+.vscode/
+
+# Secret config files
+config.json
+.env
+
+# Log files and database
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db

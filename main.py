@@ -65,7 +65,7 @@ async def help(ctx):
 
     caralhao.set_author(name="MAI BOT NAO CONFUNDA COM OUTROS BOTS", icon_url="https://i.imgur.com/e0Ehk26.jpeg")
     caralhao.add_field(name="```Importantes```", value="**help**: mostra esse menu", inline=False)
-    caralhao.add_field(name="```Atumalaque```", value="**xota:** manda um meme\n**piton/rola/pica/trozoba @alguem:** mostra o tamanho da rola de @alguem se deixar sem marcar ninguem mostra o seu tamanho\n**fetiche @alguem:** descobre o fetiche de alguem\n**salsicha [pergunta]:** faça uma pergunta para o salsicha vidente\n**roletarussa/roleta @alguem:** chance de 1 em 6 de o bot mutar o alvo por 28 dias. ***ALERTA: QUALQUER UM PODE USAR ESSA PORRA NÃO PRECISA DE PERMISSÃO PRA MUTAR***", inline=False)
+    caralhao.add_field(name="```Atumalaque```", value="**xota:** manda um meme\n**piton/rola/pica/trozoba @alguem:** mostra o tamanho da rola de @alguem se deixar sem marcar ninguem mostra o seu tamanho\n**fetiche @alguem:** descobre o fetiche de alguem\n**salsicha [pergunta]:** faça uma pergunta para o salsicha vidente", inline=False)
     caralhao.add_field(name="```Utilitarios```", value="**limpa [n]**: limpa o chat em [n] mensagens. n precisa ser de 1 a 100. **[Precisa ter permissao de apagar mensagem]**\n**hello:** comando de ping\n**ronaldo:** ronaldo AIIIII AAAAAAAAAI\n**kick @alguem:** kicka alguem do server\n**ban @alguem:** bane alguem do server\n**mute/timeout @alguem [tempo] [motivo]:** da timeout em alguem pelo tempo especificado. formato de tempo e [numero][s, m, d, h]", inline=False)
 
     caralhao.set_image(url="https://media.tenor.com/aE4K8BTrwLwAAAAj/rodrigo-rodrigo-moraes.gif")
@@ -169,6 +169,5 @@ async def roletarussa(ctx, membro: discord.Member = None):
         await ctx.send(f"{membro} caiu na pica na roleta russa e foi mutado por 28 dias f")
     else:
         await ctx.send("voce sobreviveu")
-
 
 bot.run(config['token'])
