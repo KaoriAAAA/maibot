@@ -1,5 +1,5 @@
 # <span style="color:#ffb5f9">*Mai Bot*</span>
-Aos moldes do Mei Bot criado em 2020 por zz vitor para facilitar a administração do servidor Quarto da Mei🌼, e do bot Dank Memer, aqui está o MAI BOT (MY BOT) que é mais foda que todos os outros.
+Aos moldes do Mei Bot criado em 2020 por zz vitor para facilitar a administração do servidor Quarto da Mei🌼, e do bot Dank Memer, aqui está o MAI BOT (MY BOT) que é melhor (Ou não) que todos os outros.
 
 ## <span style="color:#ffb5f9">*Prefixos*</span>
 
