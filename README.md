@@ -13,8 +13,8 @@ Mai Bot possui diversos comandos completamente inúteis. Divididos em 3 categori
 1. **Help:** Exibe o menu de ajuda do bot, uma embed que exibe todos os comandos disponíveis.
 
 ### B. Atumalaque
-1. **Xota:** Escolhe um meme aleatório de uma pasta e o envia no chat.
-2. **Piton/Rola/Pica/Trozoba \[@alguem]:** Clone do pls penis do Dank Memer. Exibe um tamanho de penis aleatório. Se ninguém for marcado, exibe o do usuário que usou o comando (Penis sempre é menor quando marca outra pessoa)
+1. **Meme:** Escolhe um meme aleatório de uma pasta e o envia no chat.
+2. **Piton \[@alguem]:** Clone do pls penis do Dank Memer. Exibe um tamanho de penis aleatório. Se ninguém for marcado, exibe o do usuário que usou o comando (Penis sempre é menor quando marca outra pessoa)
 3. **Fetiche \[@alguem]:** Descubra os fetiches dos seus amigos. Se ninguém for marcado, exibe o seu.
 4. **Salsicha \[Pergunta]:** O bot responde a pergunta. (Pra quem não entendeu, o nome é porque tinha um jogo no click jogos ou algum site assim onde o salsicha do scooby doo respondia uma pergunta que você digitava e usava o mesmo sistema de escolher uma resposta pré definida de uma lista de respostas)
 5. **Roleta/Roletarussa \[@alguem]:** O bot escolhe um número de 1 a 6. Se for == 3, ele muta o alvo por 28 dias. ***NÃO PRECISA DE PERMISSÃO DE MUTAR PARA USAR O COMANDO, CUIDADO*** 
